@@ -1,0 +1,6 @@
+[0623/181154.254:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Nolarry\Reports\Dump: The system cannot find the path specified. (0x3)
+[0623/181154.274:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0623/181154.278:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Nolarry\Reports\Dump: The system cannot find the path specified. (0x3)
+[0708/224016.927:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Nolarry\Reports\Dump: The system cannot find the path specified. (0x3)
+[0708/224016.943:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0708/224016.946:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Nolarry\Reports\Dump: The system cannot find the path specified. (0x3)

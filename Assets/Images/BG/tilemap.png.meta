@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 74908a422bffb2e44b3bddc6c6f313c9
+timeCreated: 1498042757
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tilemap_0
+    21300002: tilemap_2
+    21300004: tilemap_9
+    21300006: tilemap_12
+    21300008: tilemap_16
+    21300010: tilemap_20
+    21300012: tilemap_21
+    21300014: tilemap_26
+    21300016: tilemap_28
+    21300018: tilemap_30
+    21300020: tilemap_32
+    21300022: tilemap_34
+    21300024: tilemap_35
+    21300026: tilemap_36
+    21300028: tilemap_39
+    21300030: tilemap_40
+    21300032: tilemap_41
+    21300034: tilemap_42
+    21300036: tilemap_45
+    21300038: tilemap_46
+    21300040: tilemap_48
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 384
+        width: 50
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 254
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 255
+        width: 255
+        height: 203
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 385
+        width: 252
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 257
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 258
+        width: 251
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilemap_28
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 255
+        width: 254
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 127
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 128
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 127
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 128
+        width: 129
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 162
+        width: 255
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 127
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 256
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 127
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tilemap_48
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1
+        width: 254
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
