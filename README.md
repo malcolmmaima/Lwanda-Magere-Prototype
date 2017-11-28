@@ -16,7 +16,7 @@ Once the Game loads, you're met with a cool parallax effect background and thund
    <a href="#">
     <img width="607" height="343" alt="Capture" src="https://raw.githubusercontent.com/malcolmmaima/Lwanda-Magere-Prototype/master/Screenshots/Screenshot_2017-11-28-19-39-09.png"></img>
     </a> </br>
-A quick interactive box pops up which kind of gives you a feel of what to expect as the game proceeds.</br>
+A quick interactive box pops up which kind of gives you a feel of what to expect as the game proceeds. You'll notice on the bottom left corner that there is a game timer, you have exactly 30 seconds to complete this introductory first level. Note: You can pause the game which pauses the timer as well.</br></br>
 
    <a href="#">
     <img width="607" height="343" alt="Capture" src="https://raw.githubusercontent.com/malcolmmaima/Lwanda-Magere-Prototype/master/Screenshots/Screenshot_2017-11-28-19-40-12.png"></img>
