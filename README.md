@@ -16,4 +16,8 @@ Once the Game loads, you're met with a cool parallax effect background and thund
    <a href="#">
     <img width="607" height="343" alt="Capture" src="https://raw.githubusercontent.com/malcolmmaima/Lwanda-Magere-Prototype/master/Screenshots/Screenshot_2017-11-28-19-39-09.png"></img>
     </a> </br>
-A quick interactive box pops up which kind of gives you a feel of what to expect as the game proceeds.
+A quick interactive box pops up which kind of gives you a feel of what to expect as the game proceeds.</br>
+
+   <a href="#">
+    <img width="607" height="343" alt="Capture" src="https://raw.githubusercontent.com/malcolmmaima/Lwanda-Magere-Prototype/master/Screenshots/Screenshot_2017-11-28-19-40-12.png"></img>
+    </a> </br>
