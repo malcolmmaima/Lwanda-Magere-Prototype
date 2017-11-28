@@ -35,13 +35,13 @@ There are invisible checkpoints once stepped on will activate lethal arrows thro
 If you do not finish the obstacle course in time or you run out of health, well....Bye bye! you can restart and try as many times as you want.</br></br>
 
 <h2>Useful info</h2>
-Some additional features that I am yet to implement are:
+Some additional features that I am yet to implement are:</br></br>
 1. A High Score System.(With an international scores board using an API, to see the best performing player worldwide).</br>
 2. Extra levels(currently only has level 1).</br></br>
-3. Since I used a player sheet for each individual player movement, some more actions are needed.(Requires a bit of designing/animation).
+3. Since I used a player sheet for each individual player movement, some more actions are needed.
    <a href="#">
     <img width="400" height="150" alt="Capture" src="https://raw.githubusercontent.com/malcolmmaima/Lwanda-Magere-Prototype/master/Screenshots/IMG-20170208-WA0018.jpg"></img>
-    </a> </br></br>
+    </a></br>(Requires a bit of designing/animation).</br></br>
 3. Enemy character to challenge us in subsequent levels.(Already designed, will implement).</br>
 4. Share scores with friends(social media platforms).</br>
 5. More sounds.</br>
