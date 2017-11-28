@@ -21,3 +21,9 @@ A quick interactive box pops up which kind of gives you a feel of what to expect
    <a href="#">
     <img width="607" height="343" alt="Capture" src="https://raw.githubusercontent.com/malcolmmaima/Lwanda-Magere-Prototype/master/Screenshots/Screenshot_2017-11-28-19-40-12.png"></img>
     </a> </br>
+    
+   <h2>Booby traps</h2>
+   <a href="#">
+    <img width="607" height="343" alt="Capture" src="https://raw.githubusercontent.com/malcolmmaima/Lwanda-Magere-Prototype/master/Screenshots/Screenshot_2017-11-28-19-40-18.png"></img>
+    </a> </br></br>
+There are invisible checkpoints once stepped on will activate lethal arrows thrown to your direction. These arrows affect your Lwanda player's health and you might want to be careful. Also watch out for sharp objects popping out of nowhere (^_^).
