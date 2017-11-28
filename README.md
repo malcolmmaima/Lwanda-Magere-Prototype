@@ -1,10 +1,19 @@
 # Lwanda-Magere-2D
-This is a quick DEMO of a 2D game based on a fictional African Story about Lwanda Magere who could only be killed through his shadow. (^.^)
+This is a quick DEMO of a 2D game based on a fictional African Story about Lwanda Magere(Luanda) who could only be killed through his shadow. (^.^)
+I am working on the game in partnership with an African Comic Startup <a hre="https://www.254comics.com/">254 Comics</a> who have been helfpul in the dev process. This game prototype was for our Techcrunch Battlefield Africa application under the gaming category but unfortunately we were not shortlisted to be among the groups pitching which were 3.
+
+It was an interesting experience especially for me as the lead Game Dev and we plan to continue bringing african stories through 2D/3D games. If you feel you would be a great add to the team please do hit me up (malcolmmaima [at] gmail [dot] com), Looking forward to hearing from you. Also game improvement suggestions are welcome.
+
+# How to Play
+Press on either of the two arrows(left/right) to move or just press anywhere on the left/right half of the screen. 
+To jump, press on up arrow.
+Try avoiding the different obstacles that have been set. Happy testing.
 
 # Software used
 
 - Visual Studio 2015
 - Unity 3D 5.1
+- Adobe(illustrator, photoshop)
 
 <h2>Welcome Screen</h2>
    <a href="#">
@@ -37,7 +46,7 @@ If you do not finish the obstacle course in time or you run out of health, well.
 <h2>Useful info</h2>
 Some additional features that I am yet to implement are:</br></br>
 1. A High Score System.(With an international scores board using an API, to see the best performing player worldwide).</br>
-2. Extra levels(currently only has level 1).</br></br>
+2. Extra levels(currently only has level 1).</br>
 3. Since I used a player sheet for each individual player movement, some more actions are needed.
    <a href="#">
     <img width="400" height="150" alt="Capture" src="https://raw.githubusercontent.com/malcolmmaima/Lwanda-Magere-Prototype/master/Screenshots/IMG-20170208-WA0018.jpg"></img>
