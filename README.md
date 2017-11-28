@@ -1,6 +1,6 @@
 # Lwanda-Magere-2D
 This is a quick DEMO of a 2D game based on a fictional African Story about Lwanda Magere(Luanda) who could only be killed through his shadow. (^.^)
-I am working on the game in partnership with an African Comic Startup <a hre="https://www.254comics.com/">254 Comics</a> who have been helfpul in the dev process. This game prototype was for our Techcrunch Battlefield Africa application under the gaming category but unfortunately we were not shortlisted to be among the groups pitching which were 3.
+I am working on the game in partnership with an African Comic Startup, <a hre="https://www.254comics.com/">254 Comics</a> who have been helfpul in the dev process. This game prototype was for our Techcrunch Battlefield Africa application under the gaming category but unfortunately we were not shortlisted to be among the groups pitching which were 3.
 
 It was an interesting experience especially for me as the lead Game Dev and we plan to continue bringing african stories through 2D/3D games. If you feel you would be a great add to the team please do hit me up (malcolmmaima [at] gmail [dot] com), Looking forward to hearing from you. Also game improvement suggestions are welcome.
 
