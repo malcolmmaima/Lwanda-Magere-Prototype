@@ -6,6 +6,9 @@ It was an interesting experience especially for me as the lead Game Dev and we p
 
 You can test the game on your phone, my last build is <a href="https://github.com/malcolmmaima/Lwanda-Magere-Prototype/tree/master/Apk%20Prototype">here</a>
 
+# License
+This game licensed under <a href="https://github.com/malcolmmaima/Lwanda-Magere-Prototype/blob/master/LICENSE">GNU Affero General Public License v3.0</a>
+
 # How to Play
 Press on either of the two arrows(left/right) to move or just press anywhere on the left/right half of the screen. 
 To jump, press on up arrow.
