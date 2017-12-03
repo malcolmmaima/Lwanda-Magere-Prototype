@@ -4,6 +4,11 @@ I am working on the game in partnership with an African Comic Startup, <a href="
 
 It was an interesting experience especially for me as the lead Game Dev and we plan to continue bringing african stories through 2D/3D games. If you feel you would be a great add to the team please do hit me up (malcolmmaima [at] gmail [dot] com), Looking forward to hearing from you. Also game improvement suggestions are welcome.
 
+You can test the game on your phone, my last build is <a href="https://github.com/malcolmmaima/Lwanda-Magere-Prototype/tree/master/Apk%20Prototype">here</a>
+
+# License
+This game licensed under <a href="https://github.com/malcolmmaima/Lwanda-Magere-Prototype/blob/master/LICENSE">GNU Affero General Public License v3.0</a>
+
 # How to Play
 Press on either of the two arrows(left/right) to move or just press anywhere on the left/right half of the screen. 
 To jump, press on up arrow.
