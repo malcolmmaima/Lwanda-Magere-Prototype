@@ -1,3 +1,5 @@
+Version 2.0 with new charcater animations and bug fixes has been moved to a private Gitlab Repo due to License since this game is going to be launched on August 2018. A lot of what is available in this particular github repo has changed and is for educational/open-source purposes. Do have fun and watch our for the finished product.(link will be posted).
+
 # Lwanda-Magere-2D
 This is a quick DEMO of a 2D game based on a fictional African Story about Lwanda Magere(Luanda) who could only be killed through his shadow. (^.^)
 I am working on the game in partnership with an African Comic Startup, <a href="https://www.254comics.com/">254 Comics</a> who have been helfpul in the dev process. This game prototype was for our Techcrunch Battlefield Africa application under the gaming category but unfortunately we were not shortlisted to be among the groups pitching which were 3.
