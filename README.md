@@ -3,7 +3,7 @@ Version 2.0 with new charcater animations and bug fixes has been moved to a priv
 
 # Version 2.0. Demo
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/embed/p62a8GS2u6E)
+[![Watch the video](https://raw.githubusercontent.com/malcolmmaima/Lwanda-Magere-Prototype/master/Capture.PNG)](https://www.youtube.com/embed/p62a8GS2u6E)
 
 NB: A lot has changed since the recording of this demo. New screncast will be posted once testing is done.
 
