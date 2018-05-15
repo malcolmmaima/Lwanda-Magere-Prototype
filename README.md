@@ -1,7 +1,10 @@
 # Announcement
 Version 2.0 with new charcater animations and bug fixes has been moved to a private Gitlab Repo due to License since this game is going to be launched on August 2018. A lot of what is available in this particular github repo has changed and is for educational/open-source purposes. Do have fun and watch out for the finished product.(Playstore link will be posted for the Beta).
 
-<a href="https://github.com/malcolmmaima/Lwanda-Magere-Prototype/raw/master/Luanda%20Testing.MP4">Watch Screencast Demo</a>
+# Version 2.0. Demo
+<iframe width="854" height="480" src="https://www.youtube.com/embed/p62a8GS2u6E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+NB: A lot has changed since the recording of this demo. New screncast will be posted once testing is done.
 
 # Lwanda-Magere-2D
 This is a quick DEMO of a 2D game based on a fictional African Story about Lwanda Magere(Luanda) who could only be killed through his shadow. (^.^)
