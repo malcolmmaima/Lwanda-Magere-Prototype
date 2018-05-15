@@ -2,7 +2,8 @@
 Version 2.0 with new charcater animations and bug fixes has been moved to a private Gitlab Repo due to License since this game is going to be launched on August 2018. A lot of what is available in this particular github repo has changed and is for educational/open-source purposes. Do have fun and watch out for the finished product.(Playstore link will be posted for the Beta).
 
 # Version 2.0. Demo
-<html><iframe width="854" height="480" src="https://www.youtube.com/embed/p62a8GS2u6E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></html>
+
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/embed/p62a8GS2u6E)
 
 NB: A lot has changed since the recording of this demo. New screncast will be posted once testing is done.
 
