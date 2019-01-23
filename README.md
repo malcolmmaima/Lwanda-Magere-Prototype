@@ -1,5 +1,7 @@
 # Announcement
-Version 2.0 with new charcater animations and bug fixes has been moved to a private Gitlab Repo due to License since this game is going to be launched on August 2018. A lot of what is available in this particular github repo has changed and is for educational/open-source purposes. Do have fun and watch out for the finished product.(Playstore link will be posted for the Beta).
+Version 2.0 with new charcater animations and bug fixes has been moved to a private Gitlab Repo due to License since this game is going to be launched at some point. A lot of what is available in this particular github repo has changed and is for educational/open-source purposes. Do have fun and watch out for the finished product.(Playstore link will be posted for the Beta).
+
+Download apk: https://bit.ly/2FYj12i
 
 # Version 2.0. Demo
 
